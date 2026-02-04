@@ -10,6 +10,13 @@ Generative Engine Optimization (GEO), is a paradigm to aid content creators in i
 
 This is a niche area, which is increasingly receiving attention from the community. This awesome‑listing is an attempt to bring together works in this space. This list is not complete and looking for your PRs to improve it. Thanks!
 
+
+## 2026
+
+- IF-GEO: Conflict-Aware Instruction Fusion for Multi-Query Generative Engine Optimization [[Paper]](https://arxiv.org/abs/2601.13938)
+- Multimodal Generative Engine Optimization: Rank Manipulation for Vision–Language Model Rankers [[Paper]](https://arxiv.org/abs/2601.12263)
+- Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper]](https://arxiv.org/abs/2601.16858)
+
 ## 2025
 
 - C-SEO Bench: Does Conversational SEO Work?, NeurIPS D&B 2025, [[Paper]](https://arxiv.org/abs/2506.11097) [[Code]](https://github.com/parameterlab/c-seo-bench) [[Dataset]](https://huggingface.co/datasets/parameterlab/c-seo-bench)
