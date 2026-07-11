@@ -16,6 +16,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - IF-GEO: Conflict-Aware Instruction Fusion for Multi-Query Generative Engine Optimization [[Paper]](https://arxiv.org/abs/2601.13938)
 - Multimodal Generative Engine Optimization: Rank Manipulation for Vision–Language Model Rankers [[Paper]](https://arxiv.org/abs/2601.12263)
 - Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper]](https://arxiv.org/abs/2601.16858)
+- Source Composition of AI Answers: An Analysis of 167,551 Citations Across Generative Engines (Rankfor.AI, 2026) [[Paper]](https://doi.org/10.5281/zenodo.20788142)
 
 ## 2025
 
