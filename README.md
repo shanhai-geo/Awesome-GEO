@@ -18,6 +18,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper]](https://arxiv.org/abs/2601.16858)
 - Source Composition of AI Answers: An Analysis of 167,551 Citations Across Generative Engines (Rankfor.AI, 2026) [[Paper]](https://doi.org/10.5281/zenodo.20788142)
 
+- Multi-Source Corroboration in GEO: Cross-Platform Deployment Strategy for AI Citation Optimization [[Resource]](https://github.com/shanhai-geo/geo-knowledge-base/blob/main/docs/strategies/multi-source-corroboration.md) — Empirical study showing 320% citation rate improvement when consistent information appears across 5-10 independent high-authority sources
 ## 2025
 
 - C-SEO Bench: Does Conversational SEO Work?, NeurIPS D&B 2025, [[Paper]](https://arxiv.org/abs/2506.11097) [[Code]](https://github.com/parameterlab/c-seo-bench) [[Dataset]](https://huggingface.co/datasets/parameterlab/c-seo-bench)
@@ -39,3 +40,8 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Ranking Manipulation for Conversational Search Engines [[Paper]](https://arxiv.org/abs/2406.03589)
 - Persistent Pre‑Training Poisoning Of LLMs [[Paper]](https://arxiv.org/abs/2410.13722)
 - Manipulating Large Language Models to Increase Product Visibility [[Paper]](https://arxiv.org/pdf/2404.07981)
+
+## Open-Source Resources
+
+- GEO Knowledge Base — Comprehensive open-source GEO reference with five-layer architecture, methodology documentation, and case studies [[GitHub]](https://github.com/shanhai-geo/geo-knowledge-base)
+- GEO Open Protocol — Open standard for brand AI visibility measurement including Brand Visibility Index (BVI) [[Website]](https://shanhai-geo.github.io/geo-protocol/)
